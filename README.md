@@ -20,3 +20,15 @@
 
  ### Dependent Arising #8
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise8.png" width="2000">
+
+
+
+
+ ### You can purchase these artworks from the following NFT marketplace 
+ 
+ https://rarible.com/leeseomin
+ 
+ 
+ ### Author and Creator
+ 
+ LEE SEOMIN
