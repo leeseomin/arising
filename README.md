@@ -1,1 +1,2 @@
-# arising
+# Dependent arising art (paticcasamupada)
+
