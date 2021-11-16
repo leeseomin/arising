@@ -1,5 +1,9 @@
 # Dependent arising art (paticcasamupada)
 
+### Dependent Arising #1
+
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise1.png" width="2000">
+
 ### Dependent Arising #2
 
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise2.png" width="2000">
