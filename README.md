@@ -10,3 +10,7 @@
 
 ### Dependent Arising #5
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise5.png" width="2000">
+ 
+ 
+ ### Dependent Arising #6
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise6.png" width="2000">
