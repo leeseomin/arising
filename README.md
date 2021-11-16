@@ -22,6 +22,8 @@
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise8.png" width="2000">
 
 
+ ### Dependent Arising #9
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise9.png" width="2000">
 
 
  ### You can purchase these artworks from the following NFT marketplace 
