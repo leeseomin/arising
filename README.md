@@ -39,13 +39,17 @@
 ### Dependent Arising #70
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise70a.png" width="2000">
+
+ ### Dependent Arising #72
+ 
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise72.png" width="1800">
  
  
  ### Dependent Arising #74
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise74.png" width="2000">
  
-  ### Dependent Arising #76
+ ### Dependent Arising #76
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise76.png" width="2000">
  
