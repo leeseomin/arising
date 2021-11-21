@@ -40,6 +40,10 @@
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/12.png" width="2000">
  
+### Dependent Arising #30
+ 
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise30.png" width="2000"> 
+ 
 ### Dependent Arising #70
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise70a.png" width="2000">
