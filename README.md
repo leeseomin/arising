@@ -75,6 +75,11 @@
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise79.png" width="2000">
 
 
+ ### Dependent Arising #80
+ 
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise80.png" width="2000">
+
+
  ### You can purchase these artworks from the following NFT marketplace 
  
  https://rarible.com/leeseomin
