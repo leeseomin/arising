@@ -69,7 +69,7 @@
 
 ### Dependent Arising #39
  
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise39.png" width="2000">  
+
  
  
  
