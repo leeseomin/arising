@@ -87,7 +87,11 @@
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise46.png" width="2000">   
  
+### Dependent Arising #47
  
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise47.png" width="2000">   
+
+
 ### Dependent Arising #70
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise70a.png" width="2000">
