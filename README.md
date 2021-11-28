@@ -3,36 +3,39 @@
 ### Dependent Arising #1
 
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise1.png" width="2000">
+<br/><br/>
 
 ### Dependent Arising #2
 
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise2.png" width="2000">
-
+<br/><br/>
 
 ### Dependent Arising #3
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise3.png" width="2000">
+ <br/><br/>
 
 ### Dependent Arising #5
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise5.png" width="2000">
- 
+ <br/><br/>
  
  ### Dependent Arising #6
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise6.png" width="2000">
-
+<br/><br/>
 
  ### Dependent Arising #8
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise8.png" width="2000">
-
+<br/><br/>
 
  ### Dependent Arising #9
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise9.png" width="2000">
- 
+ <br/><br/>
 
  
 ### Dependent Arising #12
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/12.png" width="2000">
+ <br/><br/>
  
 ### Dependent Arising #30
  
