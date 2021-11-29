@@ -37,7 +37,11 @@
  <img src="https://github.com/leeseomin/arising/blob/main/art/12.png" width="2000">
  <br/><br/>
  
+### Dependent Arising #28
  
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise28.png" width="2000"> 
+ <br/><br/> 
+  
  
 ### Dependent Arising #29
  
