@@ -18,9 +18,6 @@
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise5.png" width="2000">
  <br/><br/>
  
- ### Dependent Arising #6
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise6.png" width="2000">
-<br/><br/>
 
  ### Dependent Arising #8
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise8.png" width="2000">
