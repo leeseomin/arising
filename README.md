@@ -133,6 +133,7 @@
  ### Dependent Arising #77
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise77.png" width="2000">
+ https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4049 
  <br/><br/>
  
   ### Dependent Arising #79
@@ -152,9 +153,11 @@
  <br/><br/>
 
 
- ### You can purchase these artworks from the following NFT marketplace 
+ ### You can purchase these artworks from the following NFT marketplace
  
- https://rarible.com/leeseomin
+ https://rarible.com/leeseomin  or 
+ 
+ https://async.art/u/leeseomin/collection 
  
  
  ### Author and Creator
