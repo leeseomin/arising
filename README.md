@@ -139,7 +139,7 @@
  
  ### Dependent Arising #78
  
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise78h.png" width="2000">
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise78hh.png" width="2000">
 
 <br/><br/>
  
