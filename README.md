@@ -136,7 +136,15 @@
  https://async.art/art/master/0xb6dae651468e9593e4581705a09c10a76ac1e0c8-4049 
  <br/><br/>
  
-  ### Dependent Arising #79
+ 
+ ### Dependent Arising #78
+ 
+ <img src="https://github.com/leeseomin/arising/blob/main/art/arise78.png" width="2000">
+
+<br/><br/>
+ 
+ 
+### Dependent Arising #79
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise79.png" width="2000">
 
