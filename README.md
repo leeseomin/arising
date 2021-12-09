@@ -140,6 +140,7 @@
  ### Dependent Arising #78
  
  <img src="https://github.com/leeseomin/arising/blob/main/art/arise78hh.png" width="2000">
+https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687231?tab=details
 
 <br/><br/>
  
