@@ -93,23 +93,6 @@
 https://rarible.com/token/0xF6793dA657495ffeFF9Ee6350824910Abc21356C:64669575457772622843733520472986026667877001999885492881277833910229705687231?tab=details
 
 <br/><br/>
- 
- 
-### Dependent Arising #79
- 
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise79.png" width="2000">
-
-<br/><br/>
-
-  ### Dependent Arising #79C
- 
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise79cu.png" width="2000">
- <br/><br/>
-
- ### Dependent Arising #80
- 
- <img src="https://github.com/leeseomin/arising/blob/main/art/arise80.png" width="2000">
- <br/><br/>
 
 
  ### You can purchase these artworks from the following NFT marketplace
